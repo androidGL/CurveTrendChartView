@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CurveTrendChartView">
+        <attr name="lineColor" format="color"/>
+        <attr name="xTextSize" format="dimension"/>
+        <attr name="yTextSize" format="dimension"/>
+        <attr name="xTextColor" format="color" />
+        <attr name="yTextColor" format="color" />
+    </declare-styleable>
+</resources>
